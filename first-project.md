@@ -52,3 +52,5 @@ git status
 ```
 git commit -m "Коментарий"
 ```
+**7. 
+
