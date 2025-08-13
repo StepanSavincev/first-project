@@ -84,5 +84,7 @@ mkdir
 Создать целую структуру директорий одной командой
 ```
 mkdir -p
-```
 
+пример: mkdir -p dir1/dir-inside/dir-deeper-inside
+```
+**12
