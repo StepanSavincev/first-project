@@ -93,4 +93,10 @@ mkdir -p
 ```
 cp
 ```
-
+```
+Примеры:
+cp что_копируем куда_копируем
+cp index.html src/ # скопировали index.html в папку src
+cp index.html style.css script.js src/ # скопировали три файла (index.html, style.css и script.js) в папку src
+pbcopy - копирует все данные из файла в буфер обмена # pbcopy < ~/.ssh/id_rsa.pub
+```
