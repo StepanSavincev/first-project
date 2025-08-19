@@ -87,4 +87,4 @@ mkdir -p
 
 пример: mkdir -p dir1/dir-inside/dir-deeper-inside
 ```
-**12
+**12 Копирование файла из одной дирректории в другую
